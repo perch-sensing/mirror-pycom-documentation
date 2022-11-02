@@ -1,4 +1,4 @@
-baseURL = "https://perch-sensing.github.io"
+baseURL = "https://mirror-pycom-documentation.perchsensing.com/"
 languageCode = "en-us"
 title = "documentation"
 uglyurls = false
